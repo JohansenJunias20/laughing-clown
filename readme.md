@@ -1,7 +1,7 @@
 [Link Video Teaser](https://www.youtube.com/watch?v=ILq6IDReb0M)  
 [Link Video Demo](https://youtu.be/_YK_ztvRbtw)  
 [Link Source Code](https://drive.google.com/file/d/1PUCmtr58AyPo1aLKpTNKu4WlGrqTo5It/view?usp=sharing)  
-[Link Download Game](https://drive.google.com/file/d/1hM724NMkEW5OlH5ODysJ980vgI0PGIdA/view?usp=sharing)
+[Link Download Game](https://drive.google.com/file/d/1hM724NMkEW5OlH5ODysJ980vgI0PGIdA/view?usp=sharing)  
 [Link GDD](https://docs.google.com/document/d/1_yvkLNvDszjgmcTOPuhINLkqvFgqBTur/edit?usp=sharing&ouid=115983267284226059513&rtpof=true&sd=true)
 
 Developers:
